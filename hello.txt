@@ -1,3 +1,4 @@
 Hello Git
 
 This is my first Git project.
+Git was updated with every change.
