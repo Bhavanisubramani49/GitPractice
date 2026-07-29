@@ -1,0 +1,13 @@
+*.log
+*.tmp
+password.txt
+output/
+*.log
+*.class
+out/
+build/
+.idea/
+.vscode/
+__pycache__/
+node_modules/
+.env
