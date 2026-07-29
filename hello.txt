@@ -6,4 +6,5 @@ Git is easy to learn.
 This line was added in the feature branch.
 Hello from new Branch
 This line was added from Laptop A.
+This Line was Added from Laptop B. 
 
