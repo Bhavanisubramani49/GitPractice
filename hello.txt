@@ -8,5 +8,10 @@ Hello from new Branch
 This line was added from Laptop A.
 This Line was Added from Laptop B. 
 
+
 Already learned restore; now learning the git reset command.
 Learning Git revert.
+
+Learning git stash.
+Learning git cherry-pick.
+(Cherry-pick demo)
